@@ -1,0 +1,10 @@
+
+Vue ile youtube benzeri bir site yapımı
+
+* normal kurulumu yaptık, vuetify ve router ekledik
+* vuetify bizim normal vue başlangıç sayfamızı değiştirir. Düzenledik, 
+* vuetify aynı bootstrap-vue gibi belli özellikler için kod alıp kullanacağımız bir yapı,
+
+* header koyalım, kodlar vuetify dan icon kodları material dizayn daki kodlar,
+
+* 
